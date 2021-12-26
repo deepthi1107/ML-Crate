@@ -4,7 +4,7 @@
 
 
 🔴 **Deepthi M.** (Participant ID : 294) (GitHub Link : https://github.com/deepthi1107) <br/>
-🔴 **Assigned Issues** : #9, #47 <br/>
+🔴 **Assigned Issues** : #9, #57 <br/>
 🔴 **Merged PRs** : #33, #57 <br/>
 🔴 **Projects** : Wine Quality Prediction (40 Points) | Breast Cancer Wisconsin (Diagnostic) (30 Points) <br/>
 🔴 **Total Points** : 70 <br/>
